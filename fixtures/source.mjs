@@ -147,6 +147,19 @@ export const phases={
       "body": {
         "items": [
           {
+            "sliceId": "b1",
+            "facility": "stand1",
+            "interpretation": "BASELINE",
+            "sequence": 1,
+            "correction": 0,
+            "validStart": 0,
+            "validEnd": null,
+            "properties": {
+              "open": true,
+              "capacity": 2
+            }
+          },
+          {
             "sliceId": "t2",
             "facility": "stand1",
             "interpretation": "TEMPDELTA",
